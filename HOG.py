@@ -1,3 +1,8 @@
+####################################################
+## Developed by: Eashan Kaushik & Srijan Malhotra ##
+## Project Start: 27th November 2021              ##
+####################################################
+
 from convolution import SeConvolve
 import numpy as np
 import cv2

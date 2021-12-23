@@ -1,3 +1,8 @@
+####################################################
+## Developed by: Eashan Kaushik & Srijan Malhotra ##
+## Project Start: 27th November 2021              ##
+####################################################
+
 from HOG import HOGDescriptor
 import matplotlib.pyplot as plt
 
