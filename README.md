@@ -13,6 +13,7 @@ In this project we will use HOG Features for Human Detection, in this project we
 ### Step 5: object Recognition using Similarity Score
 
 ## Results
-The results of 10 test images with there HOG Discriptor, 3NN and classification is given below. We see that we are gettung two misclassificaitons (marked in red).
+The results of 10 test images with there HOG Discriptor, 3NN and classification is given below. We see that we are gettung two misclassificaitons (no_person_no_bike_258_cut
+.bmp and no_person_no_bike_264_cut.bmp).
 
 ![image](https://user-images.githubusercontent.com/50113394/148706179-4aec0eba-b6e3-4d4a-9d98-a8975b9b2f5d.png)
