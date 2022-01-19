@@ -1,6 +1,6 @@
 # HOG Features for Human Detection using python from Scratch
 
-<<p align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/50113394/149029808-2baeabda-937e-4b63-bb5e-3898d1328dcd.png" />
 </p>
 
